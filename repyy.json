@@ -1,0 +1,22 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Kevin-Umali/repyy/releases/download/v0.3.0/repyy_0.3.0_windows_amd64.zip",
+            "bin": [
+                "repyy.exe"
+            ],
+            "hash": "07523ecb8f2753af42cf84d1167ef901786c3927cf0655b638f27a648b0efa9b"
+        },
+        "arm64": {
+            "url": "https://github.com/Kevin-Umali/repyy/releases/download/v0.3.0/repyy_0.3.0_windows_arm64.zip",
+            "bin": [
+                "repyy.exe"
+            ],
+            "hash": "bc6db6eefa17600f7b457fa377b9ce01ac354879de708961d126c319d925d64e"
+        }
+    },
+    "homepage": "https://github.com/Kevin-Umali/repyy",
+    "license": "MIT",
+    "description": "Scan unfamiliar source repositories before running their code"
+}
