@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Kevin-Umali/repyy/releases/download/v0.3.0/repyy_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/Kevin-Umali/repyy/releases/download/v0.3.1/repyy_0.3.1_windows_amd64.zip",
             "bin": [
                 "repyy.exe"
             ],
-            "hash": "07523ecb8f2753af42cf84d1167ef901786c3927cf0655b638f27a648b0efa9b"
+            "hash": "c52427ed1d9d46c9e5b1e0326611fda117894bb149d469fe7cc88f2ffc13dc7f"
         },
         "arm64": {
-            "url": "https://github.com/Kevin-Umali/repyy/releases/download/v0.3.0/repyy_0.3.0_windows_arm64.zip",
+            "url": "https://github.com/Kevin-Umali/repyy/releases/download/v0.3.1/repyy_0.3.1_windows_arm64.zip",
             "bin": [
                 "repyy.exe"
             ],
-            "hash": "bc6db6eefa17600f7b457fa377b9ce01ac354879de708961d126c319d925d64e"
+            "hash": "c5a5fc7c8d2286ab4cfafadfbf3cfe4ac8b76bd557f2a897e8f6cc60bd3a239c"
         }
     },
     "homepage": "https://github.com/Kevin-Umali/repyy",
